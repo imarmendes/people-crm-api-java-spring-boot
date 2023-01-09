@@ -1,0 +1,11 @@
+com/example/demo/controller/DatabaseController.class
+com/example/demo/controller/PersonController.class
+com/example/demo/repository/PersonRepository.class
+com/example/demo/service/PersonService.class
+com/example/demo/controller/AddressesController.class
+com/example/demo/model/Address.class
+com/example/demo/PeopleCrmApiApplication.class
+com/example/demo/service/AddressService.class
+com/example/demo/service/DatabaseService.class
+com/example/demo/model/Person.class
+com/example/demo/repository/AddressRepository.class

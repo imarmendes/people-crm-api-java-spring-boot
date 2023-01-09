@@ -15,7 +15,7 @@ import com.example.demo.model.Person;
 import com.example.demo.service.DatabaseService;
 
 @RestController
-@RequestMapping("/fillDatabase")
+@RequestMapping("/filldatabase")
 public class DatabaseController {
 	@Autowired
 	private DatabaseService databaseService;
