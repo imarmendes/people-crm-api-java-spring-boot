@@ -1,0 +1,10 @@
+/home/imarmendes/Documentos/Trybe/testes/attornautos/people-crm-api/src/main/java/com/example/demo/repository/AddressRepository.java
+/home/imarmendes/Documentos/Trybe/testes/attornautos/people-crm-api/src/main/java/com/example/demo/service/AddressService.java
+/home/imarmendes/Documentos/Trybe/testes/attornautos/people-crm-api/src/main/java/com/example/demo/service/PersonService.java
+/home/imarmendes/Documentos/Trybe/testes/attornautos/people-crm-api/src/main/java/com/example/demo/controller/PeopleController.java
+/home/imarmendes/Documentos/Trybe/testes/attornautos/people-crm-api/src/main/java/com/example/demo/SwaggerConfig.java
+/home/imarmendes/Documentos/Trybe/testes/attornautos/people-crm-api/src/main/java/com/example/demo/repository/PersonRepository.java
+/home/imarmendes/Documentos/Trybe/testes/attornautos/people-crm-api/src/main/java/com/example/demo/PeopleCrmApiApplication.java
+/home/imarmendes/Documentos/Trybe/testes/attornautos/people-crm-api/src/main/java/com/example/demo/controller/AddressesController.java
+/home/imarmendes/Documentos/Trybe/testes/attornautos/people-crm-api/src/main/java/com/example/demo/model/Person.java
+/home/imarmendes/Documentos/Trybe/testes/attornautos/people-crm-api/src/main/java/com/example/demo/model/Address.java
