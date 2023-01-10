@@ -1,7 +1,7 @@
 # API para cadastrar pessoas e endereços 
 
 # Acesso a aplicação
-# A aplicação pode ser executada via arquivo .jar:
+### A aplicação pode ser executada via arquivo .jar:
 O arquivo está na pasta /target e pode ser executado com o comando abaixo:
 
 ```
@@ -357,7 +357,7 @@ localhost:8080/address/{id}
 	
 </details>
 
-####Autor
+### Autor
 - Francisco <strong>Imar Mendes</strong>
 - Desevolvedor Fullstack
 - Java - Javascrip - C#
